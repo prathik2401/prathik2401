@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ConnectU - Meet your Destiny**
 
-- 👨‍💻 All of my projects are available at [link](https://github.com/prathik2401)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/prathik2401)
 
 - 📫 How to reach me **saiprathik2419@gmail.com**
 
