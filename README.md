@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saiprathik2419@gmail.com**
 
-- 📄 Know about my experiences [resume](https://portfolio-prathik.netlify.app/)
+- 📄 Know about my experiences through my [portfolio](https://portfolio-prathik.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
