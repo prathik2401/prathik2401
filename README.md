@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathik2401&label=Profile%20Views&color=2e93ff&style=flat" alt="prathik2401" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Fundamentals**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 👯 I’m looking to collaborate on **ConnectU - Meet your Destiny**
+- 👯 I’m looking to collaborate on **Image Detection**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/prathik2401)
 
