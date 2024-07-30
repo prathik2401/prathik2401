@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathik2401&label=Profile%20Views&color=2e93ff&style=flat" alt="prathik2401" /> </p>
 
-- 🔭 I’m currently working on **DevOps**
+- 🔭 I’m currently working on **DAPPs for fintech**
 
 - 👯 I’m looking to collaborate on **Image and Object Detection**
 
